@@ -5,3 +5,6 @@ This is a retrospective of my entire project in CS-260, Software Development Lif
   
 For a full summary of the project, please open and review the Spring Retrospective document. The final product is contained within the .jar files in this repository. Journal documents recount the responsibities I took on within each role for the project, starting with the Scrum Master.
 </p>
+
+ <a href="github.com/lorenarms/CS-260_Project/blob/main/Final Project FInal Draft.docx">Sprint Retrospective</a> 
+github.com/lorenarms/CS-260_Project/blob/main/Final Project FInal Draft.docx
